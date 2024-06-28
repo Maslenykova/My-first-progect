@@ -1,6 +1,6 @@
 # Layout Sample Project
-
-### [Site link](https://gromcode.github.io/layout-sample-project/)
+[
+### [Site link]](https://maslenykova.github.io/foundation-layout/)
 
 Layout supports mobile (up-to-400) and desktop (up-to-1360) versions
 
@@ -13,5 +13,5 @@ Layout supports mobile (up-to-400) and desktop (up-to-1360) versions
 - [BEM methodology](https://en.bem.info/methodology/)
 
 ### Author
-
+Maslenykova Svetlana
 
