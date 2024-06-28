@@ -1,6 +1,6 @@
 # Layout Sample Project
 [
-### [Site link]](https://maslenykova.github.io/foundation-layout/)
+### [Site link(https://maslenykova.github.io/foundation-layout/)]
 
 Layout supports mobile (up-to-400) and desktop (up-to-1360) versions
 
